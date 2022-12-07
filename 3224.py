@@ -2,6 +2,6 @@ jon = input()
 medico = input()
 
 if(jon <= medico):
-    print("go")
+    print("go\n")
 else:
-    print("no")
+    print("no\n")
